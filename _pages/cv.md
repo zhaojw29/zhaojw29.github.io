@@ -9,56 +9,38 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+*   **Ph.D. Student** in [Major, e.g., Computer Science]
+    *   Sun Yat-sen University (SYSU), Guangzhou, China
+    *   2020 - Present (Estimated)
+*   **Bachelor's Degree**
+    *   [University Name]
+    *   [Year] - [Year]
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+---
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Awards & Honors
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+*   **National Scholarship** (獲得兩次国家奖学金) - 2024, 2025
+*   **Excellent Youth League Member of Sun Yat-sen University** (中山大学优秀共青团员) - 2024-2025
+*   [Placeholder: Add other awards from your resume here]
+
+---
+
+## Research Experience
+
+*   **[Project Title 1]**
+    *   *Role/Position*, [Date]
+    *   Description: [Brief description of what you did and achieved]
+*   **[Project Title 2]**
+    *   *Role/Position*, [Date]
+    *   Description: [Brief description]
+
+---
+
+## Skills
+
+*   **Programming:** [e.g., Python, C++, Java, PyTorch, TensorFlow]
+*   **Tools:** [e.g., Git, LaTeX, Docker]
+*   **Languages:** Chinese (Native), English (Fluent)
