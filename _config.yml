@@ -13,9 +13,9 @@ title                    : "Jiawen Zhao"
 title_separator          : "-"
 name                     : &name "Jiawen Zhao"
 description              : &description "Jiawen Zhao's academic portfolio"
-url                      : https://jiawenzhao.github.io # Placeholder
-baseurl                  : "" 
-repository               : "jiawenzhao/jiawenzhao.github.io"
+url                      : https://zhaojw29.github.io # The base hostname & protocol for your site
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "zhaojw29/zhaojw29.github.io"
 
 # Site Author
 author:
