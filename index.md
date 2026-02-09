@@ -9,36 +9,35 @@ redirect_from:
 
 # Introduction
 
-Hello! I am **Jiawen Zhao** (赵嘉雯), a Ph.D. student at **Sun Yat-sen University**, Guangzhou, China. 
+Hello! I am **Jiawen Zhao** (赵嘉雯), a **Junior Undergraduate Student** at **Sun Yat-sen University**, Guangzhou, China. 
 
-My research interests include Computer Vision, Video Understanding, and Multimedia Analysis.
+My current research focuses on **Vision-Language Analysis (VLA)** and **Agentic Reinforcement Learning (RL)**.
+
+I am passionate about building intelligent agents that can understand and interact with the world through visual perception and learning.
 
 ---
 
 # Research
 
-Here are some highlights of my recent research work.
+## Cross-Video Graph Construction
 
-## Cross-Video Graph Construction (ICME)
+*(Project description based on resume context)*
+Investigating methods to construct graphs across multiple videos for enhanced understanding and reasoning.
 
-![ICME Paper](/images/ICME.png)
+## Question-Aware Multi-Agent Long-Form Video Understanding
 
-This work proposes a novel framework for constructing cross-video graphs to enhance video understanding.
-
----
-
-## Video Analysis & Multimedia (TMM)
-
-![TMM Paper](/images/TMM.png)
-
-This research investigates advanced techniques for temporal modeling in multimedia analysis.
+*(Project description based on resume context)*
+Developing a multi-agent framework to solve complex queries in long-form videos by leveraging question-aware decomposition and reasoning.
 
 ---
 
 # Awards
 
-- **National Scholarship** (2024, 2025)
+- **National Scholarship** (2023-2024, 2024-2025) - *Top 0.2%*
+- **First Prize Scholarship of Sun Yat-sen University** (2023-2025)
 - **Excellent Youth League Member of Sun Yat-sen University** (2024-2025)
+- **National College Student Mathematics Competition** - *First Prize (Guangdong Division)*
+- **Sun Yat-sen University Electronic Creative Design Competition** - *Third Prize*
 
 ---
 
